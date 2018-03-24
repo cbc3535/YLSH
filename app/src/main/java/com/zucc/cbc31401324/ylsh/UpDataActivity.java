@@ -13,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.zucc.cbc31401324.ylsh.Activity.MainActivity;
+import com.zucc.cbc31401324.ylsh.Activity.UpDataLocationActivity;
 import com.zucc.cbc31401324.ylsh.Bin.PositionEntity;
 import com.zucc.cbc31401324.ylsh.View.SettingItemViewBtn;
 

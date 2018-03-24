@@ -53,7 +53,7 @@
         <activity android:name=".Activity.MyFishTogetherActivity"/>
         <activity android:name=".Activity.ChangeHeadPicActivity"/>
         <activity android:name=".UpDataActivity"/>
-        <activity android:name=".UpDataLocationActivity"/>
+        <activity android:name=".Activity.UpDataLocationActivity"/>
         <activity android:name=".Activity.SearchActivity"/>
         <activity android:name=".Activity.MarkerClickActivity"/>
         <activity android:name=".Activity.DateActivity"/>
